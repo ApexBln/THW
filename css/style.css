@@ -1,0 +1,53 @@
+﻿body { 
+  margin:0; 
+  padding:5px 5px; 
+}
+
+#map { 
+  position:absolute; 
+  top:0; 
+  bottom:0; 
+  width:69%;
+  height:90%;
+  padding-left: 0.5%;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+}
+#Einsatzstatusleiste {
+  position: absolute;
+  bottom: 10px;
+  width: 69%;
+  height:10%;
+  padding-left: 0.5%;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+}
+.button {
+  background-color: #0039ac; /* Blau */
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  color: white;
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+#Fahrzeugübersicht {
+  position: absolute;
+  bottom: 10px;
+  width: 29%;
+  height:100%;
+  right: 10px;
+  padding-right: 0.5%;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
+
+#HeadContainer{
+	text-align: center;
+}

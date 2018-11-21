@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset='utf-8' />
+    <title>Add live realtime data</title>
+	
+	<!-- Das folgend Script kann nicht ans Ende geschoben werden, es ändert die Sprache der Karte -->
+	<script src='js/mapboxlanguage.js'></script>
+	<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.js'></script>
+	
+	<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no'/>
+	
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.51.0/mapbox-gl.css' rel='stylesheet' />
+	<link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.css' rel='stylesheet' type='text/css' />
+    <link href='css/style.css' rel='stylesheet' />
+</head>
+<body>
+
+	<!-- Kartencontainer-->
+	<div id='map'></div>
+
+	<!-- Übersicht der aktiven Fahrzeuge-->
+	<div id='Fahrzeugübersicht'>
+		<form> 
+			<button class="button" name="Funkrufname" value="Heros Berlin 07/20/50" onclick="berechne_BMI(value);">Heros Berlin 07/20/50</button>
+			<button class="button" name="Funkrufname" value="Heros Berlin 07/21/50" onclick="berechne_BMI(value);">Heros Berlin 07/21/50</button>
+			<button class="button" name="Funkrufname" value="Heros Berlin 07/22/50" onclick="berechne_BMI(value);">Heros Berlin 07/22/50</button>
+			<button class="button" name="Funkrufname" value="Heros Berlin 07/23/50" onclick="berechne_BMI(value);">Heros Berlin 07/23/50</button>
+			<button class="button" name="Funkrufname" value="Heros Berlin 07/24/50" onclick="location.href='http://apex.dnshome.de/THW/site/popup.html'">Heros Berlin 07/24/50</button>
+		</form>
+	</div>
+
+	<!-- leere Textfelder welche später ggf die Koordinaten der Maus oder des "Klick" anzeigen-->
+	<div id='Einsatzstatusleiste'>
+		<input type="text" id="textDivlat" name="Koordinaten" [maxlength="50" ]></input>
+		<input type="text" id="textDivlng" name="Koordinaten" [maxlength="50" ]></input>
+	</div>
+	
+	<!-- Zur Zeit nicht genutzt (vermutlich)-->
+	<div id="textDiv"></div> 
+   
+<script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v2.3.0/mapbox-gl-geocoder.min.js'></script>
+<script src='https://api.mapbox.com/mapbox.js/v3.1.1/mapbox.js'></script>
+<script src='js/script.js'></script>
+</body>
+</html>

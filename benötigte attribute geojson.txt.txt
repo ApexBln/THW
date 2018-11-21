@@ -1,0 +1,7 @@
+Liveposition
+Status (1-x)  damit kann über eine schleife festgelegt werden welche fahrzeuge auf der Karte dargestellt werden.
+
+
+
+THW Overlay
+eine eindeutige beschreibung die eine aussage trifft ob der punkt ein OV, eine RSt oder ein Lv ist

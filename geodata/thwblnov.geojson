@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "timestamp": "2018-11-15T14:21:02Z",
+  "features": [
+	{
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28934892",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "67",
+        "addr:postcode": "13585",
+        "addr:street": "Neuendorfer Straße",
+        "addr:suburb": "Spandau",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 (0)30 3353877",
+        "contact:website": "http://ov-berlin-spandau.ov-cms.thw.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Spandau",
+        "opening_hours": "Th 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "1. Bergungsgruppe 1 (1.B1)",
+        "squad_2": "2. Bergungsgruppe 1 (2.B1)",
+        "squad_3": "Bergungsgruppe 2 (B2)",
+        "squad_4": "Fachgruppe Räumen (FGr R)",
+        "squad_5": "Fachgruppe Sprengen (FGr Sp)",
+        "squad_6": "Fachgruppe Trinkwasserversorgung (FGr TW)"
+      },
+	  "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.208893,
+          52.552056
+        ]
+      },
+      "id": "node/28934892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36920325",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "15 b",
+        "addr:postcode": "12681",
+        "addr:street": "Meeraner Straße",
+        "addr:suburb": "Marzahn",
+        "amenity": "emergency_service",
+        "building": "yes",
+        "contact:phone": "+49 30 51061855",
+        "contact:website": "http://www.thw-lichtenberg.de",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Lichtenberg",
+        "opening_hours": "Tu 19:00-21:30; We-Mo,PH off",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Wassergefahren (FGr W)",
+        "squad_2": "Fachgruppe Ölschaden (FGr Öl)",
+        "squad_3": "Fachgruppe Elektroversorgung (FGr E)",
+        "squad_4": "Fachgruppe Beleuchtung (FGr Bel)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.524414,
+          52.527553
+        ]
+      },
+      "id": "node/36920325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36984257",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "73",
+        "addr:postcode": "12359",
+        "addr:street": "Haarlemer Straße",
+        "addr:suburb": "Britz",
+        "amenity": "emergency_service",
+        "building": "yes",
+        "building:levels": "1",
+        "contact:phone": "+49 (0)30 60797106",
+        "contact:website": "https://ov-neukoelln.thw.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Neukölln",
+        "opening_hours": "Th 19:00-21:30",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Wassergefahren (FGr W)",
+        "squad_2": "Fachgruppe Infrastruktur (FGr I)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.455048,
+          52.454354
+        ]
+      },
+      "id": "node/36984257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/81084131",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "29g",
+        "addr:postcode": "13125",
+        "addr:street": "Wiltbergstraße",
+        "addr:suburb": "Buch",
+        "amenity": "emergency_service",
+        "building": "yes",
+        "contact:phone": "+49 30 91202901",
+        "contact:website": "http://www.thw-pankow.de",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Pankow",
+        "opening_hours": "Th 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Räumen (FGr R)",
+        "squad_2": "Fachgruppe Infrastruktur (FGr I)",
+        "website": "http://ov-pankow.thw.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.485266,
+          52.627471
+        ]
+      },      
+      "id": "node/81084131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/406424237",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "82a",
+        "addr:postcode": "12487",
+        "addr:street": "Groß-Berliner Damm",
+        "addr:suburb": "Johannisthal",
+        "amenity": "emergency_service",
+        "building": "yes",
+        "contact:phone": "+49 (0)30 63224556",
+        "contact:website": "http://www.thw-treptow.de",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Treptow-Köpenick",
+        "opening_hours": "We 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Logistik (FGr Log)",
+        "squad_2": "Fachgruppe Wasserschaden/Pumpen (FGr WP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.519161,
+          52.442876
+        ]
+      },      
+	  "id": "node/406424237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/560564068",
+        "amenity": "emergency_service",
+        "barrier": "fence",
+        "contact:fax": "+49 30 54000989",
+        "contact:phone": "+49 30 54000988",
+        "contact:website": "http://www.thw-marzahn.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Marzahn-Hellersdorf",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Infrastruktur (FGr I)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.540733,
+          52.520616
+        ]
+      },
+      "id": "node/560564068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1422557921",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "30",
+        "addr:postcode": "12101",
+        "addr:street": "General-Pape-Straße",
+        "addr:suburb": "Tempelhof",
+        "amenity": "emergency_service",
+        "contact:email": "ov-friedrichshain-kreuzberg@thw.de",
+        "contact:phone": "+49 30 7889-7881",
+        "contact:website": "http://www.thw-friedrichshain-kreuzberg.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Friedrichshain-Kreuzberg",
+        "opening_hours": "Mo 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Wassergefahren (FGr W)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.368065,
+          52.4772197
+        ]
+      },
+      "id": "node/1422557921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2952117521",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "23-24",
+        "addr:postcode": "13407",
+        "addr:street": "Walderseestraße",
+        "addr:suburb": "Wedding",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 (0)30 46600159",
+        "contact:website": "https://ov-berlin-mitte.thw.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin-Mitte",
+        "opening_hours": "We 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Brückenbau (FGr BrB);Fachgruppe Logistik (FGr Log)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3625128,
+          52.5605946
+        ]
+      },
+      "id": "node/2952117521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3892121974",
+        "addr:city": "Berlin",
+        "addr:housenumber": "123",
+        "addr:housenumber_1": "13",
+        "addr:postcode": "12249",
+        "addr:street": "Gallwitzallee",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 (0) 30 7851016",
+        "contact:website": "https://ov-berlin-tempelhof-schoeneberg.thw.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Tempelhof-Schöneberg",
+        "opening_hours": "Mo 19:00-21:30",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Räumen (FGr R)",
+        "squad_2": "Fachgruppe Beleuchtung (FGr Bel)",
+        "squad_3": "Fachgruppe Infrastruktur (FGr I)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3511437,
+          52.4235408
+        ]
+      },
+      "id": "node/3892121974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3892121975",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "123",
+        "addr:postcode": "12249",
+        "addr:street": "Gallwitzallee",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 (30) 775 50 51",
+        "contact:website": "http://thw-steglitz.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Steglitz-Zehlendorf",
+        "opening_hours": "We 18:45-21:15",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Wasserschaden/Pumpen (FGr WP)",
+        "squad_2": "Fachgruppe Elektroversorgung (FGr E)",
+        "squad_3": "Fachgruppe Ortung (FGr O)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3518041,
+          52.423706
+        ]
+      },
+      "id": "node/3892121975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3892599896",
+        "addr:city": "Berlin",
+        "addr:housenumber": "14-20",
+        "addr:postcode": "13407",
+        "addr:street": "Flottenstraße",
+        "addr:suburb": "Reinickendorf",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 (0)30 4142833",
+        "contact:website": "https://www.thw-berlin-reinickendorf.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Reinickendorf",
+        "opening_hours": "Mo 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Infrastruktur (FGr I)",
+        "squad_2": "Fachgruppe Beleuchtung (FGr Bel)",
+        "squad_3": "Fachgruppe Wassergefahren (FGr W)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3528547,
+          52.5781225
+        ]
+      },
+      "id": "node/3892599896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4084849730",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "84",
+        "addr:postcode": "14050",
+        "addr:street": "Soorstraße",
+        "addr:suburb": "Westend",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 30 30612236",
+        "contact:website": "http://www.thw-chawi.de/",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Charlottenburg-Wilmersdorf",
+        "opening_hours": "Tu 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Wassergefahren (FGr W)",
+        "squad_2": "Fachgruppe Wasserschaden/Pumpen (FGr WP)",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.279380,
+          52.516717
+        ]
+      },
+      "id": "node/4084849730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/0084849730",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "14-20",
+        "addr:postcode": "13407",
+        "addr:street": "Flottenstraße",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 30 4142833",
+        "contact:website": "http://www.thw-berlin-reinickendorf.de",
+        "emergency_service": "technical",
+        "name": "THW Ortsverband Berlin Reinickendorf",
+        "opening_hours": "Mo 19:00-22:00",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)",
+        "squad_1": "Fachgruppe Infrastruktur (FGr I)",
+        "squad_2": "Fachgruppe Wassergefahren (FGr W)",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.353176,
+          52.578142
+        ]
+      },
+      "id": "node/0084849730"
+    }
+  ]
+}

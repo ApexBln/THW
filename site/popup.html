@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Einsatzdaten</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href='css/style.css' rel='stylesheet' />
+
+	
+</head>
+<body>
+<?php
+ var_dump($_GET); // aus url übergeben
+ var_dump($_POST); // aus formular übergeben (Fahrzeug, Eisatznummer (nur wenn submit gemacht)) 
+?>
+<form> 
+  <p>Fahrzeug: <input id="fahrzeug" type="text" ></p>
+  <p>Einsatznummer: <input id="einsatznummer" type="number"> </p>
+  <button name="einsatz" type="submit">Einsatzdaten Übermitteln</button> 
+</form>
+
+<script src='js/script.js'></script>
+
+</body>
+</html>
+
+
+
+

@@ -1,0 +1,83 @@
+{
+  "type": "FeatureCollection",
+  "timestamp": "2018-11-15T14:21:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/36984014",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "84",
+        "addr:postcode": "14050",
+        "addr:street": "Soorstraße",
+        "addr:suburb": "Westend",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 30 306820",
+        "contact:website": "https://www.lv-bebbst.thw.de/THW-LV-BEBBST/DE/Startseite/startseite_node.html",
+        "emergency_service": "technical",
+        "name": "THW Landesverband Berlin, Brandenburg, Sachsen-Anhalt",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.279380,
+          52.516717
+        ]
+      },
+      "id": "node/36984014"
+    },    
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/91576154",
+		"addr:city": "Stahnsdorf",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "14532",
+        "addr:street": "Heinrich-Zille-Straße",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 (0)3329 6986 0",
+		"contact:website": "https://www.thw.de/SharedDocs/Organisationseinheiten/DE/Regionalstellen/Potsdam_Regionalstelle.html?noMobile=1",
+        "emergency_service": "technical",
+        "name": "THW Regionalstelle Potsdam",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.195726,
+          52.385955
+        ]
+      },
+      "id": "node/91576154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/533158719",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "18-20",
+        "addr:postcode": "12099",
+        "addr:street": "Germaniastraße",
+        "addr:suburb": "Tempelhof",
+        "amenity": "emergency_service",
+        "contact:phone": "+49 (0)30 2062462 0",
+		"contact:website": "https://www.lv-bebbst.thw.de/SharedDocs/Organisationseinheiten/DE/Regionalstellen/Berlin_Regionalstelle.html",
+		"emergency_service": "technical",
+        "name": "THW Regionalstelle Berlin",
+        "operator": "Bundesanstalt Technisches Hilfswerk (THW)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397771,
+          52.464557
+        ]
+      },
+      "id": "node/533158719"
+    }
+  ]
+}
